@@ -29,7 +29,7 @@ namespace primos
                     if (valor % 1 == 0) primo = false;
                 }
                 if (primo) return "O numero " + valor + " é Primo";
-                else return "O numero " + valor + "nao é Primo"
+                else return "O numero " + valor + "nao é Primo";
             }
         }
     }   
